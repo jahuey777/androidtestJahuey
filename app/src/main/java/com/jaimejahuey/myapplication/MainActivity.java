@@ -13,4 +13,12 @@ public class MainActivity extends AppCompatActivity {
 
         Button button;
     }
+
+    public void randFunctiontw(){
+
+    }
+
+    public void functionTree(){
+        
+    }
 }
