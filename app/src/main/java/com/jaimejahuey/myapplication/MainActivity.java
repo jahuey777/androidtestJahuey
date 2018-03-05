@@ -11,10 +11,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button button;
     }
 
     private void randomFun(){
-        
+
+    }
+
+    public void randFunctiontw(){
+
+    }
+
+    public void functionTree(){
+
     }
 }
